@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Project management
 - 🌱 I’m currently learning Google Data Analytics
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me LINKEDIN : https://www.linkedin.com/in/navin-joshy-1190721b1
 
 <!---
 NavinJ32/NavinJ32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
